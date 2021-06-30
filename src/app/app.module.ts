@@ -6,7 +6,7 @@ import { AppComponent } from './app.component';
 import { TestComponent } from './components/test/test.component';
 import { BarComponent } from './components/bar/bar.component';
 import { ModalComponent } from './components/modal/modal.component';
-import { QuestionContentComponent } from './src/app/components/question-content/question-content.component';
+import { QuestionContentComponent } from './components/question-content/question-content.component';
 import { ModalService } from './services/modal.service';
 
 @NgModule({
