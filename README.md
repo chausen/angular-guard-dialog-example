@@ -1,6 +1,8 @@
 # GuardDialog
+Example using an Angular CanDeactivate route guard to present a dialog asking for confirmation when navigating away from a route.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
+## Credit
+Following Tobias Ljungström's tutorial here: https://tobiasljungstrom.net/blog/2019-07-24-angular-route-guard-dialog/
 
 ## Development server
 
